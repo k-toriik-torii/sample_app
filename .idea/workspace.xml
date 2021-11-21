@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24bb5cd4-95e2-4f04-95a2-d0b81854930b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637380629928</updated>
       <workItem from="1637380634102" duration="67000" />
-      <workItem from="1637380785979" duration="12351000" />
+      <workItem from="1637380785979" duration="12649000" />
     </task>
     <servers />
   </component>
